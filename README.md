@@ -13,7 +13,7 @@ https://hacktoberfest.digitalocean.com/
 
 ----
 
-# Steps to follow to be complete 4 successful PRs to win a T-shirt or plant a tree!
+# Steps to be follow to complete 4 successful PRs to win a T-shirt or plant a tree!
 - Login using GitHub @[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Create four valid pull requests (PRs) between 1st - 31st October
 

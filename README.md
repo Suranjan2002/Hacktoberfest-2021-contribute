@@ -13,12 +13,12 @@ https://hacktoberfest.digitalocean.com/
 
 ----
 
-# Steps to follow to complete 4 successful PRs to win a T-shirt or plant a tree!
+# Steps to follow to be complete 4 successful PRs to win a T-shirt or plant a tree!
 - Login using GitHub @[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Create four valid pull requests (PRs) between 1st - 31st October
 
 ## Must Do:
-Here are few steps that everyone needs to follow before contributing to this repository:
+Here are few steps that everyone needs to be follow before contributing to this repository:
 * Add your name and Github Profile link to the `CONTRIBUTING.md` file as:
     `[yourUserName](https://www.github.com/yourUsername)`
 * Follow the collaborators of this repository:
@@ -34,7 +34,7 @@ Here are few steps that everyone needs to follow before contributing to this rep
 3) Look through the **ISSUES** and find the most suitable one.
 4) You will find **FORK** tab on top right corner beside **UNWATCH** and **STAR** *(this will help you in cloning the repo to your own profile)*.
 5) Add a new file to make the changes or edit the existing files.
-6) Add your name,github-username,Your Contribution File Name,Institution, as well as your Email Id for future referral. (Must be done in a single PR.)
+6) Add your name, github-username, Your Contribution File Name,Institution, as well as your Email Id for future referral. (Must be done in a single PR.)
 7) You will find a **COMMIT** button below, put a suitable message about the change and press **COMMIT**.
 8) Come back to hacktoberfest-contribute repo (from where you initially forked).
 9) Go to **PULL REQUESTS** tab.

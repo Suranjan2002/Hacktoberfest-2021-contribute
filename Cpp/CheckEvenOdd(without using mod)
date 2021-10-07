@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+int isEven(int n)
+{
+  return (!(n & 1));  //using bitwise operator
+}
+
+int main()
+{
+  int n;
+  cout << "Enter the number ";
+  cin >> n;
+  cout << n << " is ";
+isEven(n) ? cout << "even" : cout << "odd";
+
+return 0;
+}

@@ -3,10 +3,10 @@ int main()
 {
     int t,a,b,i;
     scanf("%d",&t);
-    for(i=0; i<n; i++)
+    for(i=0;i<t;i++)
     {
-        scnaf("%d %d",&a,&b);
-        printf("%d",(a%b));
+        scanf("%d%d",&a,&b);
+        printf("%d\n",(a%b));
     }
     return 0;
 }

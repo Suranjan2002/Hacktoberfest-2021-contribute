@@ -1,18 +1,19 @@
 # take input from the user
-num = int(input("Enter a number: "))
+num = input("Enter a number: ")
+dig=len(num)
+nums=list(map(int,num))
 
-# initialize sum
-sum = 0
-
-# find the sum of the cube of each digit
-temp = num
-while temp > 0:
-   digit = temp % 10
-   sum += digit ** 3
-   temp //= 10
+# initialize empty list sum1 
+sum1 = []
+for i in range(len(nums)):
+   t= nums[i] ** dig
+   sum1.append(t)
 
 # display the result
-if num == sum:
+if int(num) == sum(sum1):
    print(num,"is an Armstrong number")
 else:
    print(num,"is not an Armstrong number")
+
+
+

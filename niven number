@@ -1,0 +1,21 @@
+// niven number checking
+import java.util.*;
+public class niven
+{
+    public static void main()
+    {
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Enter a number");
+        int n=sc.nextInt();
+        int i=0,d=0,s=0;
+        for(i=n;i>0;i=i/10)
+        {
+            d=i%10; 
+            s=s+d;
+        }
+        if(n%s==0)
+        System.out.println("Niven number");
+        else
+        System.out.println("Not a Niven number");
+    }
+}

@@ -4,8 +4,9 @@
   <img width="700" height="300" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
 </p>
 
-<h1 style="text-align: center; font-weight: bold;"> WE ARE CURRENTLY NOT REQUESTING ANYMORE PRs FOR 2 DAYS. PLEASE TRY AFTER 2 DAYS!! </h1>
-
+<div align="center">
+<h1 style="text-align: center; font-weight: bold;"> <span> WE ARE CURRENTLY NOT ACCEPTING PRs FOR 2 DAYS.</span> <br> <span>PLEASE TRY AFTER 2 DAYS!!</span> </h1>
+</div>
 
 ## 🌟Contributing In Hacktoberfest🌟
 

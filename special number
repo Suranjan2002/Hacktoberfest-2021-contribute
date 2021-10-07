@@ -1,0 +1,25 @@
+//special number checking
+import java.util.*;
+public class special
+{
+    public static void main()
+    {
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Enter a number");
+        int n=sc.nextInt();
+        int i=0,d=0,a=0,f=1,s=0;
+        for(i=n;i>0;i=i/10)
+        {
+            d=i%10; f=1;
+            for(a=1;a<=d;a++)
+            { 
+                f=f*a;
+            }
+            s=s+f;
+        }
+        if(s==n)
+        System.out.println("Special number");
+        else
+        System.out.println("Not a special number");
+    }
+}

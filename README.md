@@ -17,7 +17,8 @@ https://hacktoberfest.digitalocean.com/
 - Login using GitHub [@Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 - Create 4 valid pull requests (PRs) between 1st - 31st October.
 
-## Rules and Regulations
+## Rules and Regulations:~
+
 - It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
 - Try to stick to the issues mentioned. Any code other than the issues mentioned would not be accepted.
 - Once a contributor has generated a PR, he/she must wait until the Maintainers merge it. They should also look out for any comments/suggestions from the Maintainers while merging.
@@ -27,16 +28,18 @@ https://hacktoberfest.digitalocean.com/
 - Do not create a new issue on your own. Anyone doing so shall be banned from this repository.
 - Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
 
-## Must Do:
+## Must Do:~
+
 Here are few steps that everyone needs to follow before contributing to this repository:
 * Follow the collaborators of this repository:
-    - [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
-    - [Suranjan Saha](https://www.github.com/Suranjan2002)
-    - [Sinjini Hom Roy](https://www.github.com/Sinjini46)
+    ■ [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
+    ■ [Suranjan Saha](https://www.github.com/Suranjan2002)
+    ■ [Sinjini Hom Roy](https://www.github.com/Sinjini46)
 * Follow the rules and regulations to sucessfully contribute in this repository.
 
 
-## As a contributor:
+## As a contributor:~
+
 1) Navigate to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository.
 2) Go to `ISSUES` tab.
 3) Look through the `ISSUES` and find the most suitable one. You would not be assigned an issue specifically. You just have to choose an issue and write a code for that and commit. So do not comment for getting an issue assigned.

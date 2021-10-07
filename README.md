@@ -15,7 +15,7 @@ https://hacktoberfest.digitalocean.com/
 
 # Steps to follow to complete 4 successful PRs to win a T-shirt or plant a tree!
 - Login using GitHub [@Hacktoberfest](https://hacktoberfest.digitalocean.com/).
-- Create 4 valid pull requests (PRs) between 1st - 31st October.
+- Create 4 valid pull requests (PRs) between 𝟏𝐬𝐭 - 𝟑𝟏𝐬𝐭 𝐎𝐂𝐓𝐎𝐁𝐄𝐑.
 
 ## Rules and Regulations
 - It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
@@ -38,22 +38,38 @@ Here are few steps that everyone needs to follow before contributing to this rep
 
 ## As a contributor:
 1) Navigate to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository.
+
 2) Go to `ISSUES` tab.
+
 3) Look through the `ISSUES` and find the most suitable one. You would not be assigned an issue specifically. You just have to choose an issue and write a code for that and commit. So do not comment for getting an issue assigned.
+
 4) You will find `FORK` tab on top right corner beside `UNWATCH` and `STAR` *(this will help you in cloning the repo to your own profile)*.
+
 5) Add a new file to make the changes or edit the existing files.
+
 6) Remember to commit changes for the issues in the concerned folder of the programming languages that you would be employing to resolve the chosen issue.
+
 7) You will find a `COMMIT` button below, put a suitable message about the change and press `COMMIT`.
+
 8) Come back to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository (from where you initially forked).
+
 9) Go to `PULL REQUESTS` tab.
+
 10) Click on **New Pull Request**.
+
 11) Give a necessary title and properly formatted description.
+
 12) Complete the **Pull Request**.
+
 13) Now patiently wait for this PR (pull request) to get merged.
+
 14) Keep checking if the owner of the repository has suggested you to make some changed so that it can be merged.
+
 15) Remember, if the PR is not merged, your submission will not be counted.
+
 16) Navigate to the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) By Digital Ocean website and check your contributions after almost an hour to see that it has been sent for review.
+
 17) After every PR do not forget to fetch and merge the forked repository in you GitHub account. Keep it updated with the main repository to avoid any trouble.
 
 ---
-# ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨
+# ✨ ALL THE BEST EVERYONE 👍🏻!! LET'S GET CONTRIBUTING!!🤩✨

@@ -1,4 +1,4 @@
-# ✨Hacktoberfest'21✨
+# ✨Hacktoberfest'21
 
 <p align="center">
   <img width="700" height="300" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
@@ -8,17 +8,42 @@
 <h1 style="text-align: center; font-weight: bold;"> <span> WE ARE CURRENTLY NOT ACCEPTING PRs FOR 2 DAYS.</span> <br> <span>PLEASE TRY AFTER 2 DAYS!!</span> </h1>
 </div>
 
-## 🌟Contributing In Hacktoberfest🌟
+# ❓ What's Hacktoberfest 2021?
 
-A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2021.
 
-https://hacktoberfest.digitalocean.com/
+During the entire month of October 2021, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
-----
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
-# Steps to follow to complete 4 successful PRs to win a T-shirt or plant a tree!
+---
+
+# 👕 Why Should I Contribute?
+
+Hacktoberfest has a simple and plain moto.
+
+> Support open source and earn a limited edition T-shirt!
+
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
+**Wait there's more!**
+
+---
+
+# 👍 This is Awesome! How Can I Contribute?
+
+## Objectives
+**The Main objectives of this repository is to help people for their Contribution in Hacktoberfest 2021**
+## Steps to follow to complete 4 successful PRs to win a T-shirt or plant a tree!
+Here are few steps that everyone needs to follow before contributing to this repository:
 - Login using GitHub [@Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 - Create 4 valid pull requests (PRs) between 1st - 31st October.
+
+* Follow the collaborators of this repository:
+    - [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
+    - [Suranjan Saha](https://www.github.com/Suranjan2002)
+    - [Sinjini Hom Roy](https://www.github.com/Sinjini46)
+* Follow the rules and regulations and code of conduct of this repository.
+* Follow the instructions given to successfully contribute to this repository for Hacktoberfest 2021.
 
 ## Rules and Regulations
 - It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
@@ -30,16 +55,7 @@ https://hacktoberfest.digitalocean.com/
 - Do not create a new issue on your own. Anyone doing so shall be banned from this repository.
 - Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
 
-## Must Do:
-Here are few steps that everyone needs to follow before contributing to this repository:
-* Follow the collaborators of this repository:
-    - [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
-    - [Suranjan Saha](https://www.github.com/Suranjan2002)
-    - [Sinjini Hom Roy](https://www.github.com/Sinjini46)
-* Follow the rules and regulations to sucessfully contribute in this repository.
-
-
-## As a contributor:
+## How to contribute:
 1) Navigate to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository.
 2) Go to `ISSUES` tab.
 3) Look through the `ISSUES` and find the most suitable one. You would not be assigned an issue specifically. You just have to choose an issue and write a code for that and commit. So do not comment for getting an issue assigned.
@@ -59,4 +75,30 @@ Here are few steps that everyone needs to follow before contributing to this rep
 17) After every PR do not forget to fetch and merge the forked repository in you GitHub account. Keep it updated with the main repository to avoid any trouble.
 
 ---
-# ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨
+
+## Code Of Conduct
+**Examples of behavior that contributes to creating a positive environment :**
+- Using welcoming and inclusive language.
+- Gracefully accepting constructive criticism.
+- Focusing on what is best for the community.
+- Being respectful of differing viewpoints and experiences.
+
+**Examples of unacceptable behaviour by participants include:**
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment.
+- Publishing others' private information, such as a physical or electronic address, without explicit permission.
+---
+
+## Recommended Programming Languages
+<p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+</p>
+
+---
+
+<div align="center">
+<h1 style="text-align: center; font-weight: bold;"> <span> ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨</span> </h1>
+</div>
